@@ -1,7 +1,7 @@
 % Jiahao (Derek) Ye
 % Jiyao (Lucas) Chen
 %
-% chen_ye_hw3_q4.m
+% HH_model.m
 % CS346 -- Computational Modeling & Simulation 
 % Spring, 2020
 
